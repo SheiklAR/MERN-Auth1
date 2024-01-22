@@ -9,4 +9,4 @@ This app uses the [Vite] Build tool.
 The main focus of this project is to get authentication setup. 
 
 It gives you a good understanding of creating routes/controllers in the api and 
-then managing state in React/Redux.
+then managing state in React/Redux."# MERN-Auth1" 
